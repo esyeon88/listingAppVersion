@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Debt Now App - Appcast</title>
@@ -7,6 +7,6 @@
             <description>desc</description>
             <pubDate>Sun, 16 Dec 2021 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.mikeplusplus.listing.listings" sparkle:version="1.0.40" sparkle:os="android" />
-        <!-- </item> -->
+        </item>
     </channel>
-</rss>
+</rss> -->
