@@ -19,13 +19,13 @@
         <title>Version 2.0</title>
         <description>desc Версия</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.mikeplusplus.listing.listings" sparkle:version="2.0" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
     <item>
         <title>Version 3.0</title>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.mikeplusplus.listing.listings" sparkle:version="3.0" sparkle:os="android" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
             sparkle:version="3.0"
